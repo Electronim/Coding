@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1514991680 source:/home/stl_man/Documents/Programming/ActDeBinefacere/help.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"help.h"
+
+1514991683 /home/stl_man/Documents/Programming/ActDeBinefacere/help.h
+
+1514748254 source:/home/stl_man/Documents/Programming/ActDeBinefacere/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"help.h"
+
